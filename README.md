@@ -1,3 +1,3 @@
 # Slowfashion-Deep-Learning-Project
 
-Phase 1, 2, 3
+Check the report.
