@@ -1,0 +1,12 @@
+# Image Processing & Annotations
+opencv-python
+pycocotools
+matplotlib
+
+# Utilities
+tqdm
+gdown
+scikit-learn
+pandas
+seaborn
+scipy
