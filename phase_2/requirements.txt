@@ -1,0 +1,19 @@
+# Core Dependencies for Transfer Learning Scripts
+pandas
+scikit-learn
+numpy
+Pillow
+
+# Image Processing & Visualization
+opencv-python
+matplotlib
+seaborn
+scipy
+tqdm
+
+# Utilities
+# gdown  # Useful for downloading datasets
+# pycocotools  # Common for DeepFashion/COCO evaluations
+
+# Note: PyTorch & Torchvision should be installed via Conda for GPU support:
+# conda install pytorch torchvision torchaudio pytorch-cuda=12.1 -c pytorch -c nvidia
